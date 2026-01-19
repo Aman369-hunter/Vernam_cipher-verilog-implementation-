@@ -1,2 +1,2 @@
 # Vernam_cipher-verilog-implementation-
-Encryption at hardware code
+Encryption at hardware level
